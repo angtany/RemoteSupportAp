@@ -160,10 +160,10 @@
       "sku": {
         "name": "Standard_LRS"
       },
-      "type": "Microsoft.Storage/storageAccounts",
-       "properties": {
+      "properties": {
          "supportsHttpsTrafficOnly": "true"
-         }
+       },
+      "type": "Microsoft.Storage/storageAccounts"
     },
     {
       "apiVersion": "2016-09-01",
